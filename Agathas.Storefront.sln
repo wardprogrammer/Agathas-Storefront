@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{DF432FE4-0456-4517-90E6-2DEDE795E86B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{248C2EBE-7CED-40F4-B075-AF2B3A0667A4}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\AutoMapper.dll = Lib\AutoMapper.dll
+		Lib\Iesi.Collections.dll = Lib\Iesi.Collections.dll
+		Lib\LinFu.DynamicProxy.dll = Lib\LinFu.DynamicProxy.dll
+		Lib\log4net.dll = Lib\log4net.dll
+		Lib\NHibernate.ByteCode.LinFu.dll = Lib\NHibernate.ByteCode.LinFu.dll
+		Lib\NHibernate.dll = Lib\NHibernate.dll
+		Lib\nunit.framework.dll = Lib\nunit.framework.dll
+		Lib\Rhino.Mocks.dll = Lib\Rhino.Mocks.dll
+		Lib\StructureMap.dll = Lib\StructureMap.dll
+		Lib\TechTalk.SpecFlow.dll = Lib\TechTalk.SpecFlow.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Model", "Agathas.Storefront.Model\Agathas.Storefront.Model.csproj", "{7F779F74-6584-48B9-8E1B-89578FE0A274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Infrastructure", "Agathas.Storefront.Infrastructure\Agathas.Storefront.Infrastructure.csproj", "{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Services", "Agathas.Storefront.Services\Agathas.Storefront.Services.csproj", "{4827A280-FAF4-40B7-8999-D33E39D8E12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Model.Tests", "Agathas.Storefront.Model.Tests\Agathas.Storefront.Model.Tests.csproj", "{022C2428-0339-4ADA-B41B-98799295126E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Repository.NHibernate", "Agathas.Storefront.Repository.NHibernate\Agathas.Storefront.Repository.NHibernate.csproj", "{0543FBE9-088C-4895-85DA-6BB9C6A00244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Controllers", "Agathas.Storefront.Controllers\Agathas.Storefront.Controllers.csproj", "{8B611DD6-532F-48E6-BDBF-DD1ED34006BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.UI.Web.MVC", "Agathas.Storefront.UI.Web.MVC\Agathas.Storefront.UI.Web.MVC.csproj", "{08B78EB1-7D79-4334-8E00-0403E5F994E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Services.Cache", "Agathas.Storefront.Services.Cache\Agathas.Storefront.Services.Cache.csproj", "{F9D6A24B-6B55-4B5C-AEBA-6C8049CE598C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agathas.Storefront.Specs", "Agathas.Storefront.Specs\Agathas.Storefront.Specs.csproj", "{32C238E5-A1D5-4078-8ADD-BDB660CACC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F779F74-6584-48B9-8E1B-89578FE0A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F779F74-6584-48B9-8E1B-89578FE0A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F779F74-6584-48B9-8E1B-89578FE0A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F779F74-6584-48B9-8E1B-89578FE0A274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599E0CF8-AFBE-4007-A788-AEDB7F6E66F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4827A280-FAF4-40B7-8999-D33E39D8E12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4827A280-FAF4-40B7-8999-D33E39D8E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4827A280-FAF4-40B7-8999-D33E39D8E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4827A280-FAF4-40B7-8999-D33E39D8E12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022C2428-0339-4ADA-B41B-98799295126E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022C2428-0339-4ADA-B41B-98799295126E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022C2428-0339-4ADA-B41B-98799295126E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022C2428-0339-4ADA-B41B-98799295126E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0543FBE9-088C-4895-85DA-6BB9C6A00244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0543FBE9-088C-4895-85DA-6BB9C6A00244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0543FBE9-088C-4895-85DA-6BB9C6A00244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0543FBE9-088C-4895-85DA-6BB9C6A00244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B611DD6-532F-48E6-BDBF-DD1ED34006BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B611DD6-532F-48E6-BDBF-DD1ED34006BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B611DD6-532F-48E6-BDBF-DD1ED34006BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B611DD6-532F-48E6-BDBF-DD1ED34006BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B78EB1-7D79-4334-8E00-0403E5F994E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B78EB1-7D79-4334-8E00-0403E5F994E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B78EB1-7D79-4334-8E00-0403E5F994E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B78EB1-7D79-4334-8E00-0403E5F994E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D6A24B-6B55-4B5C-AEBA-6C8049CE598C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D6A24B-6B55-4B5C-AEBA-6C8049CE598C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D6A24B-6B55-4B5C-AEBA-6C8049CE598C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D6A24B-6B55-4B5C-AEBA-6C8049CE598C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C238E5-A1D5-4078-8ADD-BDB660CACC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C238E5-A1D5-4078-8ADD-BDB660CACC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C238E5-A1D5-4078-8ADD-BDB660CACC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C238E5-A1D5-4078-8ADD-BDB660CACC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{022C2428-0339-4ADA-B41B-98799295126E} = {DF432FE4-0456-4517-90E6-2DEDE795E86B}
+		{32C238E5-A1D5-4078-8ADD-BDB660CACC4F} = {DF432FE4-0456-4517-90E6-2DEDE795E86B}
+	EndGlobalSection
+EndGlobal
