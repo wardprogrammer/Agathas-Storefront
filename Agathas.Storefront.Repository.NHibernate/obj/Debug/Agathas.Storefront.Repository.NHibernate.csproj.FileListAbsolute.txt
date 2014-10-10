@@ -1,0 +1,15 @@
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Repository.NHibernate.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Repository.NHibernate.pdb
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Model.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\log4net.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\NHibernate.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\StructureMap.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Model.pdb
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.pdb

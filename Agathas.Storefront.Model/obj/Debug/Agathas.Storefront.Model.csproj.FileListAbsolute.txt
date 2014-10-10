@@ -1,0 +1,9 @@
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Model.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Model.pdb
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Infrastructure.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\bin\Debug\log4net.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\bin\Debug\StructureMap.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\obj\Debug\Agathas.Storefront.Model.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\obj\Debug\Agathas.Storefront.Model.dll
+C:\Users\Amit\Documents\GitHubProjects\Agathas Storefront\Agathas.Storefront.Model\obj\Debug\Agathas.Storefront.Model.pdb
